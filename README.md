@@ -1,0 +1,2 @@
+# Top-10-Nba-player-RestfulAPI
+Built a restful api from http variables like get,post,put,patch,delete for top 10 nba players of all time client can update fetch add and delete fields.Built using postman and nodejs,express and mongoose and mongodb as backend database designed in robbo3T for making reading and writhing of database collection easy *excluded node modules*.anyone intended to download can clone,improvements will be appreciated will be looking forward for new pull requests.If cloned run npm install for installing all dependencies. 
